@@ -172,7 +172,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ![image](https://user-images.githubusercontent.com/36288975/233857974-bda6200e-4f88-4e7b-b189-4da80210fa23.png)
 
 
-## STM 32 CUBE PROGRAM :#include "main.h"
+## STM 32 CUBE PROGRAM :
+```
 #include "lcd.h"
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
@@ -193,7 +194,11 @@ int main(void)
     	  	  Lcd_string(&lcd,"S.Vasanth");
   }
 }
-
+```
+```
+Programmed by:Vasanth.S
+Register no. : 212222110052
+```
 
 
 
