@@ -202,7 +202,9 @@ Register no. : 212222110052
 
 
 
-## Output screen shots of proteus  :![WhatsApp Image 2023-04-28 at 14 19 34](https://user-images.githubusercontent.com/122000018/235588018-fa155915-fa47-4a40-bf36-a565bcb0ef4a.jpg)
+## Output screen shots of proteus  :
+
+![vasanth](https://github.com/vasanth0908/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/122000018/831d8cfe-ea08-4968-9b9b-733e06b0f9a7)
 
  
  
